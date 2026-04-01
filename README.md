@@ -63,13 +63,13 @@ To analyze CRM data and build interactive dashboards that:
 
 ### 🔹 Lead Dashboard
 
-![Lead Dashboard](screenshots/crm_lead_tableau_dashboard.png)
+![Lead Dashboard](screenshots/crm_tableau_lead_dashboard.png)
 ![Lead Dashboard](screenshots/crm_powerbi_dashboard.png)
 
 ### 🔹 Opportunity Dashboard
 
 ![Opportunity Dashboard](screenshots/crm_excel_dashboard.png)
-![Opportunity Dashboard](screenshots/crm_opportunity_tableau_dashboard.png)
+![Opportunity Dashboard](screenshots/crm_tableau_opportunity_dashboard.png)
 
 ---
 
