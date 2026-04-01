@@ -63,11 +63,13 @@ To analyze CRM data and build interactive dashboards that:
 
 ### 🔹 Lead Dashboard
 
-![Lead Dashboard](screenshots/lead_dashboard.png)
+![Lead Dashboard](screenshots/crm_lead_tableau_dashboard.png)
+![Lead Dashboard](screenshots/crm_powerbi_dashboard.png)
 
 ### 🔹 Opportunity Dashboard
 
-![Opportunity Dashboard](screenshots/opportunity_dashboard.png)
+![Opportunity Dashboard](screenshots/crm_excel_dashboard.png)
+![Opportunity Dashboard](screenshots/crm_opportunity_tableau_dashboard.png)
 
 ---
 
@@ -88,8 +90,8 @@ The project uses a relational CRM data model consisting of:
 
 * tbl_Lead
 * tbl_Account
-* tbl_Opportunity
-* tbl_User
+* tbl_Opportunity table
+* tbl_Opportunity product
 
 ---
 
@@ -104,7 +106,7 @@ The project uses a relational CRM data model consisting of:
 ## 📁 Project Structure
 
 * /data → Dataset files
-* /dashboards → Power BI & Tableau dashboards
+* /dashboards → Excel, Power BI & Tableau dashboards
 * /screenshots → Dashboard images
 
 ---
